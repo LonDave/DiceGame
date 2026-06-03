@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: grey;
+}
+
+#startText{
+    color: aquamarine;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.containerTop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+#btnDadi{
+    margin-top: 1rem;
+    background-color: wheat;
+    font-size: 2rem;
+    color: black;
+}
+
+.container {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+
